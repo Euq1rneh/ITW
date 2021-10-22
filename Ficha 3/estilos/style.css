@@ -1,0 +1,39 @@
+/* Número: 54321, Nome: ABC, TP: 21 */
+
+#container{background-color:rgb(136, 136, 51);}
+
+h2{color: rgb(51, 51, 0);}
+
+body{background-color:rgb(153, 153, 102);
+    text-align: left;
+    color: rgb(51, 51, 0);
+    font-family: sans-serif;}
+a{color: rgb(51, 51, 0);} 
+
+.filename{font-weight: lighter;
+    font-size: 16pt;}
+
+code{font-weight: bold;
+    color: black;
+    font-family: monospace;}
+    
+section{background-color: rgb(204, 204, 153);}
+
+.selected{background-color: rgb(102, 102, 51);
+    color:white;
+    font-style: italic;}
+    
+footer{background-color: rgb;
+        font-style: italic;
+        font-size: x-small;
+        color: rgb(204, 204, 153);
+        background-color: rgb(102, 102, 51);}
+
+a[href^='mailto']{color: rgb(238, 238, 187);}
+        
+        
+
+
+
+
+
